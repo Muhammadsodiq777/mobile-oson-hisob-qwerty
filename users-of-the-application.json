@@ -1,4 +1,4 @@
 [
-  { "userId": "1", "password": "123456", "enabled": true, "validUntil": "2026-07-20-00-00" },
-  { "userId": "2", "password": "qwerty123", "enabled": true, "validUntil": "2026-07-24-00-00" }
+  { "userId": "1", "password": "123456", "enabled": false, "validUntil": "2026-07-20-00-00" },
+  { "userId": "2", "password": "qwerty123", "enabled": false, "validUntil": "2026-07-24-00-00" }
 ]
